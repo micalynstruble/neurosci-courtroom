@@ -1,0 +1,8 @@
+### TO ADD TO REPOSITORY
+
+1. git pull # replace your local directory with cloud directory
+2. "edit your files however you want" 
+3. git add . # add ALL old/new files in your directory to cloud
+4. git commit -m <message> # put message in double quotes
+5. git push origin master # or you can do git push
+
